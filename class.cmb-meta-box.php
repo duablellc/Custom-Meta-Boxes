@@ -56,6 +56,7 @@ class CMB_Meta_Box {
 				'name' => '',
 				'desc' => '',
 				'std'  => '',
+				'repeatable'	=> false,
 				'cols' => 12
 			);
 
